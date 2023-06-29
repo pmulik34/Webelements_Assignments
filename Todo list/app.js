@@ -36,3 +36,7 @@ function showTask(){
     listConatiner.innerHTML = localStorage.getItem("data");
 }
 showTask();
+
+
+
+
